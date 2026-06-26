@@ -1,16 +1,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:00D4FF&text=Srichandana%20Gegganapally&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20|%20Competitive%20Programmer%20|%20AI%2FML%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Srichandana%20Gegganapally&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=60"/>
 
-# 👋 Hi, I'm Srichandana!
+# 👋 Hey there, I'm Srichandana!
 
-### 💻 B.Tech CSE @ VNR VJIET '28
+### 💻 B.Tech CSE @ VNR Vignana Jyothi Institute of Engineering & Technology
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Competitive+Programmer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer;Competitive+Programmer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=srichandanag&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=srichandanag&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CGPA-9.55-blue?style=for-the-badge"/>
 </p>
@@ -23,11 +23,12 @@
 
 ```javascript
 const srichandana = {
+
     pronouns: "She/Her",
 
     role: "Software Engineer",
 
-    college: "VNR Vignana Jyothi Institute of Engineering & Technology",
+    college: "VNR VJIET",
 
     graduation: "2028",
 
@@ -35,7 +36,7 @@ const srichandana = {
 
     cgpa: "9.55",
 
-    languages: [
+    code: [
         "Java",
         "Python",
         "C++",
@@ -43,9 +44,9 @@ const srichandana = {
     ],
 
     frontend: [
+        "React",
         "HTML",
-        "CSS",
-        "React"
+        "CSS"
     ],
 
     backend: [
@@ -53,22 +54,29 @@ const srichandana = {
         "Express.js"
     ],
 
-    database: [
+    databases: [
         "MySQL",
         "MongoDB"
     ],
 
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+    ],
+
     interests: [
         "Backend Development",
-        "System Design",
         "Artificial Intelligence",
+        "System Design",
         "Competitive Programming",
         "Open Source"
     ],
 
     currentlyLearning: [
-        "System Design",
         "Spring Boot",
+        "System Design",
         "Cloud"
     ],
 
@@ -82,24 +90,24 @@ const srichandana = {
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/srichandana-gegganapally-267943313/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/srichandanag/">
 <img src="https://img.shields.io/badge/LeetCode-1697-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_CODECHEF">
-<img src="https://img.shields.io/badge/CodeChef-1412-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com/users/algoqn251766">
+<img src="https://img.shields.io/badge/CodeChef-1412-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="YOUR_CODEFORCES">
-<img src="https://img.shields.io/badge/Codeforces-931-blue?style=for-the-badge"/>
+<a href="https://codeforces.com/profile/srichandanagegganapally">
+<img src="https://img.shields.io/badge/Codeforces-931-1F8ACB?style=for-the-badge"/>
 </a>
 
 <a href="mailto:srichandanagegganapally@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -110,13 +118,13 @@ const srichandana = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,linux"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -128,7 +136,7 @@ const srichandana = {
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=srichandanag&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=srichandanag&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,72 +146,51 @@ const srichandana = {
 
 🏅 CGPA **9.55**
 
-💻 **150+ DSA Problems Solved**
+💻 Solved **150+ DSA Problems**
 
-🔥 **LeetCode Rating – 1697**
+🔥 **LeetCode Rating — 1697**
 
-⭐ **CodeChef Rating – 1412**
+⭐ **CodeChef Rating — 1412**
 
-🚀 Passionate about building scalable applications and solving real-world problems.
+⚔️ **Codeforces Rating — 931**
+
+🎯 Interested in **Software Engineering, AI/ML & Backend Development**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚗 Student Ride Sharing Network
+### 🚗 Student Ride Sharing Network
 
-> Ride-sharing platform for college students.
+A ride-sharing platform designed for college students.
 
-**Tech Stack**
-
-- React
-- Node.js
-- MySQL
+**Tech Stack:** React • Node.js • MySQL
 
 ---
 
-## 🌾 Kisan Assistant
+### 🌾 Kisan Assistant
 
-> AI-powered multilingual farming assistant.
+AI-powered multilingual assistant for farmers.
 
-**Tech Stack**
-
-- Python
-- IBM Granite
-- FAISS
-- NLP
+**Tech Stack:** Python • IBM Granite • FAISS • NLP
 
 ---
 
-## 📍 Street Civic
+### 📍 Street Civic
 
-> Civic issue reporting platform with interactive heatmaps.
+Interactive civic issue reporting platform with heatmap visualization.
 
-**Tech Stack**
-
-- React
-- Node.js
-- MongoDB
+**Tech Stack:** React • Node.js • MongoDB
 
 ---
 
-## ✅ Todo Application
+### ✅ Todo Application
 
-Modern Todo App built with React & TypeScript.
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srichandanag&theme=algolia&no-frame=true&row=1"/>
-
-</p>
+Modern task management application built using React and TypeScript.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -213,16 +200,37 @@ Modern Todo App built with React & TypeScript.
 
 ---
 
-# ⚡ Quote
+# 🏆 GitHub Trophies
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srichandanag&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/srichandanag/srichandanag/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
+### 💬 Favourite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+*"Building impactful software, one commit at a time."*
 
 </div>
+

@@ -156,17 +156,7 @@ const srichandana = {
 
 🎯 Interested in **Software Engineering, AI/ML & Backend Development**
 
----
 
-# 🚀 Featured Projects
-
-### 🚗 Student Ride Sharing Network
-
-A ride-sharing platform designed for college students.
-
-**Tech Stack:** React • Node.js • MySQL
-
----
 
 ### 🌾 Kisan Assistant
 
